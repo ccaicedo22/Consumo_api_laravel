@@ -8,7 +8,6 @@ Bienvenido. Esta es la prueba técnica para validar mis conocimientos y fortalez
 * Instalacion.
 * Patron de diseño.
 * Herramientas de desarrollo utilizadas.
-* ¿Deseas probas la api en POSTMAN?
 * Un poco sobre mí 😀
 
 
